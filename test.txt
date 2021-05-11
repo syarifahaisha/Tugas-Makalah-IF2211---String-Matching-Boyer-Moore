@@ -1,0 +1,10 @@
+Alergi: iritasi mata, pilek, hidung mampet, mata berair, bersin, radang tenggorokan, tenggorokan gatal
+Flu: demam, sakit kepala, badan lemas dan sakit, lelah, batuk-batuk parah
+Conjunctivitis: mata memerah, mata gatal, mata berair, kelopak mata mengeras   
+Diare: tinja encer,  sering BAB, sakit perut, mual, kembung, demam, tinja berdarah
+Migraine:  kepala berdenyut, sakit kepala sebelah, sakit kepala, berlangsung berjam-jam, mengganggu aktivitas sehari-hari, mual dan muntah
+Mononucleosis: kelelahan ekstrim, sering tidur, sakit tenggorokan, demam, tidak nafsu makan, otot sakit
+Alzheimer: Kebingungan, disorientasi, tersesat di tempat yang sudah kenal, sulit membuat keputusan, kesusahan berbicara, personalitas berubah, halusinasi, mood buruk, gelisah
+Addison: lelah, lemas, otot lemah, mood buruk, nafsu makan hilang, berat badan turun, mudah halusinasi
+Sinuitis: Muncul cairan hijau di hidung, cairan kuning dihidung, hidung mampet, demam, sakit gigi, bau mulut, indra penciuman berkurang
+Pneunomia: batuk, susah nafas, detak jantung cepat, deg degan, demam, berkeringat, menggigil, nafsu makan hilang, sakit dada, batuk berdarah, sakit kepala, lemas, mual, muntah, otot sakit, sandi sakit
